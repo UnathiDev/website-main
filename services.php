@@ -23,18 +23,35 @@ include ('./includes/header.php');
 				<div class="row services-second-part">
 					<div class="col-lg-6 ser-hny-grids">
 						<h3 class="hny-title">What We Do <span class="dot-1">.</span></h3>
-						<p>Aliquam blandit vel sapien eget aliquam. Phasellus eget volutpat et, libero justo
-							pulvinar et. Lorem ipsum dolor sit amet,Ea consequuntur .Ea consequuntur illum
-							facere aperiam sequi optio elit.</p>
+						<p>
+							We craft digital experiences that ignite your brand and captivate your audience.  
+							From sleek websites that convert to innovative mobile apps that engage, we blend creativity 
+							and cutting-edge technology to bring your vision to life.  
+							We're not just building websites; we're building your digital future.
+						</p>
 						<div class="row sub-hny-grids mt-lg-5 mt-4">
 							<div class="col-md-6 subhny-gd mt-md-0 mt-4">
 								<h5>Strategy & Research.</h5>
-								<p>Dolor sed amet illum ut facere sed aperiam sequi optio consectetur.</p>
+								<p>
+									Before a single line of code is written, we dive deep.  
+									We get to know your business inside and out, understanding your goals, 
+									your target audience and your competitive landscape.  
+									This thorough research forms the bedrock of our strategy, 
+									ensuring that every decision we make is data-driven and focused on delivering real results.  
+									We're not just guessing; we're strategically planning your success.
+								</p>
 							</div>
 							<div class="col-md-6 subhny-gd mt-md-0 mt-4">
 								<h5>Design & Development.
 								</h5>
-								<p>Aperiam sequi init consequuntur illum, libero justo pulvinar et.</p>
+								<p>
+									This is where the magic happens.  Our talented designers and developers collaborate to 
+									create stunning, user-friendly interfaces that are both beautiful and functional.  
+									We use the latest technologies and best practices to build robust, 
+									scalable solutions that are tailored to your specific needs.  
+									From pixel-perfect designs to seamless functionality, 
+									we're obsessed with creating digital products you'll love.
+								</p>
 							</div>
 						</div>
 						<a href="#" class="read-more-btn btn mt-lg-5 mt-4">Read More</a>
